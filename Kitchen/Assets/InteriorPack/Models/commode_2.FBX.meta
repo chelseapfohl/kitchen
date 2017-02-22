@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 3d620f9ca89377b4aa6a8dddd8c5ae88
+timeCreated: 1460815476
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: commode_2
+    100004: commode_2_shelf
+    100006: commode_2_shelf.001
+    100008: commode_2_shelf_large
+    100010: commode_2_shelf_large.001
+    100012: commode_2_shelf_large.002
+    100014: commode_2_shelf_top
+    100016: commode_2_shelf_top.001
+    400000: commode_2
+    400002: //RootNode
+    400004: commode_2_shelf
+    400006: commode_2_shelf.001
+    400008: commode_2_shelf_large
+    400010: commode_2_shelf_large.001
+    400012: commode_2_shelf_large.002
+    400014: commode_2_shelf_top
+    400016: commode_2_shelf_top.001
+    2300000: commode_2
+    2300002: commode_2_shelf
+    2300004: commode_2_shelf.001
+    2300006: commode_2_shelf_large
+    2300008: commode_2_shelf_large.001
+    2300010: commode_2_shelf_large.002
+    2300012: commode_2_shelf_top
+    2300014: commode_2_shelf_top.001
+    3300000: commode_2
+    3300002: commode_2_shelf
+    3300004: commode_2_shelf.001
+    3300006: commode_2_shelf_large
+    3300008: commode_2_shelf_large.001
+    3300010: commode_2_shelf_large.002
+    3300012: commode_2_shelf_top
+    3300014: commode_2_shelf_top.001
+    4300000: commode_2_shelf_large.002
+    4300002: commode_2_shelf_large.001
+    4300004: commode_2_shelf.001
+    4300006: commode_2_shelf_top.001
+    4300008: commode_2_shelf_top
+    4300010: commode_2_shelf
+    4300012: commode_2_shelf_large
+    4300014: commode_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
